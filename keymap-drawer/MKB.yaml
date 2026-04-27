@@ -42,8 +42,8 @@ layers:
   - LALT
   - {t: SPACE, h: Num}
   - {t: SPACE, h: Mouse}
-  - {t: SPACE, h: Fnc}
   - {t: SPACE, h: Num}
+  - {t: SPACE, h: Fnc}
   - LEFT
   - DOWN
   - RIGHT
@@ -101,8 +101,8 @@ layers:
   - LALT
   - ENTER
   - ENTER
-  - {t: ENTER, type: held}
   - ENTER
+  - {t: ENTER, type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
