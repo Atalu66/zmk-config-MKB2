@@ -178,31 +178,31 @@ layers:
   - A
   - B
   Mouse:
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ESC
+  - F1
+  - F2
+  - F3
+  - F4
+  - F5
   - HOME
   - PAGE UP
   - '&mkp MB3'
   - PAGE DOWN
   - END
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - TAB
+  - F6
+  - F7
+  - F8
+  - F9
+  - F10
   - '&mkp MB5'
   - '&mkp MB1'
   - UP
   - '&mkp MB2'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LEFT SHIFT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -214,9 +214,9 @@ layers:
   - RIGHT
   - RCTRL
   - LEFT WIN
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - LCTRL
+  - LEFT WIN
+  - LEFT ALT
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
