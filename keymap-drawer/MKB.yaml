@@ -43,7 +43,7 @@ layers:
   - {t: SPACE, h: Num}
   - {t: SPACE, h: Mouse}
   - {t: SPACE, h: Num}
-  - {t: SPACE, h: Fnc}
+  - {t: SPACE, h: Sym}
   - LEFT
   - DOWN
   - RIGHT
@@ -59,9 +59,9 @@ layers:
   - END
   - A
   - B
-  Fnc:
+  Sym:
   - GRAVE
-  - PG UP
+  - Sft+1
   - UP
   - PG DN
   - HOME
